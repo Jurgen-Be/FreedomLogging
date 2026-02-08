@@ -14,7 +14,7 @@ import strutils
 var
   gLogDir: string = "logs"
   gMaxBackups: int = 5
-  gInitialized: bool : false
+  gInitialized: bool = false
 
 # Procedure (functie) om de bestandsnaam te maken
 proc getLogFileName(): string =
