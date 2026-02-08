@@ -48,6 +48,6 @@ De module is als volgt ingedeeld:
 *   `tests/test_logger.nim`: Testscripts voor validatie van de werking.
 
 ## Licentie
-Nog te bepalen, neem contact op met de maker.
+MIT
 
 ***
